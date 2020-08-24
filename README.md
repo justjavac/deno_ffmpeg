@@ -1,11 +1,10 @@
-# deno_starter
+# deno_ffmpeg
 
-[![tag](https://img.shields.io/github/release/justjavac/deno_starter)](https://github.com/justjavac/deno_starter/releases)
-[![Build Status](https://github.com/justjavac/deno_starter/workflows/ci/badge.svg?branch=master)](https://github.com/justjavac/deno_starter/actions)
-[![license](https://img.shields.io/github/license/justjavac/deno_starter)](https://github.com/justjavac/deno_starter/blob/master/LICENSE)
-[![](https://img.shields.io/badge/deno-v1.3-green.svg)](https://github.com/denoland/deno)
+[![tag](https://img.shields.io/github/release/justjavac/deno_ffmpeg)](https://github.com/justjavac/deno_ffmpeg/releases)
+[![Build Status](https://github.com/justjavac/deno_ffmpeg/workflows/ci/badge.svg?branch=master)](https://github.com/justjavac/deno_ffmpeg/actions)
+[![license](https://img.shields.io/github/license/justjavac/deno_ffmpeg)](https://github.com/justjavac/deno_ffmpeg/blob/master/LICENSE)
 
-Quickly start a Deno module.
+ffmpeg module for Deno.
 
 ## 🧐 What's inside?
 
@@ -46,4 +45,4 @@ A quick look at the files and directories you'll see in a Deno project.
 
 ## License
 
-[deno_starter](https://github.com/justjavac/deno_starter) is released under the MIT License. See the bundled [LICENSE](./LICENSE) file for details.
+[deno_ffmpeg](https://github.com/justjavac/deno_ffmpeg) is released under the MIT License. See the bundled [LICENSE](./LICENSE) file for details.
